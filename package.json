@@ -35,7 +35,8 @@
     "mocha": "^5.2.0",
     "mocha-jsdom": "^1.1.0",
     "mocha-multi": "^1.0.1",
-    "sinon": "^7.3.1"
+    "sinon": "^7.3.1",
+    "mockery": "^1.0.0"
   },
   "dependencies": {
     "expect": "^24.7.1"
